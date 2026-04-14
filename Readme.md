@@ -2,7 +2,6 @@
 
 A machine learning web app that predicts whether an employee is likely to leave a company — and explains  why .
 
-Built as my capstone project for the   Google Advanced Data Analytics Certificate  .
 
 🔗   [Live Demo →](#)   &nbsp;|&nbsp; 📓   [Jupyter Notebook →](Salifort%20Motors%20project.ipynb)   &nbsp;|&nbsp; 📊   [Dataset →](HR_dataset.csv)  
 
